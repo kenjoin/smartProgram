@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/order/order"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#00CD00",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "朱式商城",
+    "backgroundColor": "#efeff4",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "utils/index.png",
+        "selectedIconPath":"utils/indexSelect.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath":"utils/index.png",
+        "selectedIconPath": "utils/indexSelect.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "订单",
+        "iconPath": "utils/index.png",
+        "selectedIconPath": "utils/indexSelect.png"
+      }
+    ],
+    "selectedColor": "#00CD00"
+  }
+}
