@@ -24,10 +24,23 @@
   
   <view class='shops'>
     <view class='shop'>
-    <image src='store.png' style='height:20px;width:15px;'></image> <span style="font-size:15px;">附近商铺推荐</span>
+      <view class='shopDetail'>
+        <image src='../../utils/page/store.png'></image> 
+        <span class="nearby">附近商铺推荐</span>      
+      </view>
+
+      <view class='shopMore'>
+        <span>更多</span>
+      </view>
+      <view class='line'></view>
+      <view>aaaaaa</view>
     </view>
     <view class='shop'>
     bbbb
+    </view>
+
+    <view class='shop'>
+    cccc
     </view>
   </view>
 </view>

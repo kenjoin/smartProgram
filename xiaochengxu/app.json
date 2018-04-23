@@ -16,20 +16,20 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "utils/index.png",
-        "selectedIconPath":"utils/indexSelect.png"
+        "iconPath": "utils/page/index.png",
+        "selectedIconPath":"utils/page/indexSelect.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "日志",
-        "iconPath":"utils/index.png",
-        "selectedIconPath": "utils/indexSelect.png"
+        "iconPath":"utils/page/order.png",
+        "selectedIconPath": "utils/page/orderSelect.png"
       },
       {
         "pagePath": "pages/order/order",
         "text": "订单",
-        "iconPath": "utils/index.png",
-        "selectedIconPath": "utils/indexSelect.png"
+        "iconPath": "utils/page/user.png",
+        "selectedIconPath": "utils/page/userSelect.png"
       }
     ],
     "selectedColor": "#00CD00"
