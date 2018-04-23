@@ -45,15 +45,19 @@
 
 .shopDetail{
   margin-top: 10px;
+  background-color:white;
 }
 
 .shopDetail .shopIcon image{
+  float: left;
   width: 70px;
   height: 50px;
 }
 
 .shopDetail .content{
-
+  margin-left: 80px;
+  margin-top: 10px;
+  height: 100px;
 }
 
 .shopDetail .content image{

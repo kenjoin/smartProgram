@@ -33,38 +33,56 @@
         <span>更多</span>
       </view>
       <view class='line'></view>
-      <view class='shopDetail'>
-        <view class='shopIcon'>
-          <image src='../../utils/shopImage/shop1.png'></image>
+    </view>
+    <view class='shopDetail'>
+      <view class='shopIcon'>
+        <image src='../../utils/shopImage/shop1.png'></image>
+      </view>
+      <view class='content'>
+        <view>
+          <span>火车侠外卖</span>
         </view>
-        <view class='content'>
-          <view>
-            <span>火车侠外卖</span>
-          </view>
-          <view>
-            <image src='../../utils/page/startSelect.png'></image>
-            <image src='../../utils/page/start.png'></image>
-            <image src='../../utils/page/start.png'></image>
-            <image src='../../utils/page/start.png'></image>
-            <image src='../../utils/page/start.png'></image>
-            <span>5分</span>
-            <span>已售7单</span>
-          </view>
-          <view>
-            <span>20.00元起送/免配送费</span>
-          </view>
+        <view>
+          <image src='../../utils/page/startSelect.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <span>5分</span>
+          <span>已售7单</span>
         </view>
-        <view class='distance'>
-          <view></view>
+        <view>
+          <span>20.00元起送/免配送费</span>
         </view>
       </view>
+      <view class='distance'>
+        <view></view>
+      </view>
     </view>
-    <view class='shop'>
-    bbbb
-    </view>
-
-    <view class='shop'>
-    cccc
+    <view class='shopDetail'>
+      <view class='shopIcon'>
+        <image src='../../utils/shopImage/shop1.png'></image>
+      </view>
+      <view class='content'>
+        <view>
+          <span>火车侠外卖</span>
+        </view>
+        <view>
+          <image src='../../utils/page/startSelect.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <image src='../../utils/page/start.png'></image>
+          <span>5分</span>
+          <span>已售7单</span>
+        </view>
+        <view>
+          <span>20.00元起送/免配送费</span>
+        </view>
+      </view>
+      <view class='distance'>
+        
+      </view>
     </view>
   </view>
 </view>
