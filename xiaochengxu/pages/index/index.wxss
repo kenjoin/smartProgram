@@ -10,7 +10,7 @@
   min-height: 30px;
 }
 
-.shopDetail{
+.shopnearby{
 
 }
 
@@ -18,17 +18,17 @@
   width:100%;
   height:2rpx;
   background:#aaa;
-  margin-top:10px; 
+  margin-top:8px; 
 }
 
-.shopDetail image{
+.shopnearby image{
   height:19px;
   width:19px;
   margin-left: 2%;
   margin-top: 2%;
 }
 
-.shopDetail .nearby{
+.shopnearby .nearby{
   font-size:16px;
   margin-left:8.5%;
   display:block;
@@ -41,6 +41,29 @@
   margin-right: 10px;
   font-size: 14px;
   color:#aaa;
+}
+
+.shopDetail{
+  margin-top: 10px;
+}
+
+.shopDetail .shopIcon image{
+  width: 70px;
+  height: 50px;
+}
+
+.shopDetail .content{
+
+}
+
+.shopDetail .content image{
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+}
+
+.shopDetail .distance{
+
 }
 
 .userinfo {

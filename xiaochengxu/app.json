@@ -21,13 +21,13 @@
       },
       {
         "pagePath": "pages/logs/logs",
-        "text": "日志",
+        "text": "订单",
         "iconPath":"utils/page/order.png",
         "selectedIconPath": "utils/page/orderSelect.png"
       },
       {
         "pagePath": "pages/order/order",
-        "text": "订单",
+        "text": "我的",
         "iconPath": "utils/page/user.png",
         "selectedIconPath": "utils/page/userSelect.png"
       }

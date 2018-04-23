@@ -24,7 +24,7 @@
   
   <view class='shops'>
     <view class='shop'>
-      <view class='shopDetail'>
+      <view class='shopnearby'>
         <image src='../../utils/page/store.png'></image> 
         <span class="nearby">附近商铺推荐</span>      
       </view>
@@ -33,7 +33,31 @@
         <span>更多</span>
       </view>
       <view class='line'></view>
-      <view>aaaaaa</view>
+      <view class='shopDetail'>
+        <view class='shopIcon'>
+          <image src='../../utils/shopImage/shop1.png'></image>
+        </view>
+        <view class='content'>
+          <view>
+            <span>火车侠外卖</span>
+          </view>
+          <view>
+            <image src='../../utils/page/startSelect.png'></image>
+            <image src='../../utils/page/start.png'></image>
+            <image src='../../utils/page/start.png'></image>
+            <image src='../../utils/page/start.png'></image>
+            <image src='../../utils/page/start.png'></image>
+            <span>5分</span>
+            <span>已售7单</span>
+          </view>
+          <view>
+            <span>20.00元起送/免配送费</span>
+          </view>
+        </view>
+        <view class='distance'>
+          <view></view>
+        </view>
+      </view>
     </view>
     <view class='shop'>
     bbbb
