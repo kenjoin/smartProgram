@@ -66,8 +66,19 @@
   margin-left: 5px;
 }
 
-.shopDetail .distance{
+.shopDetail .distance .view1{
+  float: right;
+  margin-top: -100px;
+}
 
+.shopDetail .distance .view2{
+  float: right;
+  margin-top: -80px;
+}
+
+.shopDetail .distance .view3{
+  float: right;
+  margin-top: -60px;
 }
 
 .userinfo {

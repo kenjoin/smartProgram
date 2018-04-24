@@ -34,7 +34,7 @@
       </view>
       <view class='line'></view>
     </view>
-    <view class='shopDetail'>
+    <view class='shopDetail' style='margin-top:-10px;'>
       <view class='shopIcon'>
         <image src='../../utils/shopImage/shop1.png'></image>
       </view>
@@ -56,7 +56,9 @@
         </view>
       </view>
       <view class='distance'>
-        <view></view>
+        <view class='view1'>平台专送</view>
+        <view class='view2'>30分钟</view>
+        <view class='view3'>928m</view>
       </view>
     </view>
     <view class='shopDetail'>
@@ -81,7 +83,9 @@
         </view>
       </view>
       <view class='distance'>
-        
+        <view class='view1'>平台专送</view>
+        <view class='view2'>30分钟</view>
+        <view class='view3'>928m</view>
       </view>
     </view>
   </view>

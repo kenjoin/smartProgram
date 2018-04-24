@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/order/order"
+    "pages/order/order",
+    "pages/classify/classify"
   ],
   "window": {
     "navigationBarBackgroundColor": "#00CD00",
@@ -17,12 +18,18 @@
         "pagePath": "pages/index/index",
         "text": "首页",
         "iconPath": "utils/page/index.png",
-        "selectedIconPath":"utils/page/indexSelect.png"
+        "selectedIconPath": "utils/page/indexSelect.png"
+      },
+      {
+        "pagePath": "pages/classify/classify",
+        "text": "分类",
+        "iconPath": "utils/page/classify.png",
+        "selectedIconPath": "utils/page/classifySelect.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "订单",
-        "iconPath":"utils/page/order.png",
+        "iconPath": "utils/page/order.png",
         "selectedIconPath": "utils/page/orderSelect.png"
       },
       {
